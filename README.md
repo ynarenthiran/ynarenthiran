@@ -24,5 +24,6 @@ I am passionate about creating efficient, scalable, and secure applications, fro
 ## Let's Connect!
 - [LinkedIn](https://linkedin.com/in/ynarenthiran/)
 - [GitHub](https://github.com/ynarenthiran)
+- [GitLab](https://gitlab.com/ynarenthiran)
 
 Feel free to explore my repositories and get in touch for collaboration or new opportunities!
